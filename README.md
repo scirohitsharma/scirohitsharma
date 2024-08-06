@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @scirohitsharma
-- 👀 I’m interested in Web Development and Problem solving 
+- 👀 I’m interested in App and Web Development, Problem solving, Debugging. 
 - 🌱 I’m currently learning Reactjs
 - 💞️ I’m looking to collaborate on web development projects
 - ⚡ Fun fact: I love maths and Quantum physics also
